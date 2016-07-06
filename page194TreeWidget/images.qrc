@@ -1,0 +1,6 @@
+﻿<!DOCTYPE RCC><RCC version = "1.0">
+<qresource>
+	<file alias="drive.bmp">images/drive.bmp</file>
+	<file alias="folder.bmp">images/folder.bmp</file>
+</qresource>
+</RCC>

@@ -1,0 +1,8 @@
+﻿<!DOCTYPE RCC><RCC version = "1.0">
+<qresource>
+	<file alias="Android.jpg">images/Android.jpg</file>
+	<file alias="Linux.jpg">images/Linux.jpg</file>
+	<file alias="MacOSX.jpg">images/MacOSX.jpg</file>
+	<file alias="Windows.jpg">images/Windows.jpg</file>
+</qresource>
+</RCC>

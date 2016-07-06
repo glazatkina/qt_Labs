@@ -1,0 +1,5 @@
+﻿<!DOCTYPE RCC><RCC version = "1.0">
+<qresource>
+	<file alias="balalaika.png">images/balalaika.png</file>
+</qresource>
+</RCC>

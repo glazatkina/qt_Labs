@@ -1,0 +1,1 @@
+qmake.exe -tp vc scroll.pro

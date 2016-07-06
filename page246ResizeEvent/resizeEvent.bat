@@ -1,0 +1,1 @@
+qmake.exe -tp vc resizeEvent.pro
